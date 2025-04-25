@@ -1,4 +1,4 @@
 # amazon-clone-project
 this is my ist project of amazon cloning this cloning is very intrasting
 <br>
-Author: qadir hussain (student)
+Author: qadir hussain (student of agricultur universty)
